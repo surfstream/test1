@@ -6,6 +6,7 @@ void main()
   int i;
   printf("this is a sample program");
   printf("hello again");
+  printf("just checking pull ");
 
 }
  
